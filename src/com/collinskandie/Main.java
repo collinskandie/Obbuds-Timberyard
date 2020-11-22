@@ -36,8 +36,6 @@ public class Main {
                     System.out.println("Thank you, you are logged out as an admin... login again to receive more stock");
                     break;
                 }
-
-
                 case 2:
                 case 3:
                 case 4:
